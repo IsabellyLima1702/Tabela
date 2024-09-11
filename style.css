@@ -1,0 +1,22 @@
+h1{
+    color:purple;
+    font-size:50px;
+   
+  }
+  img{
+    width:60%;
+  }
+  th, td{
+   /* th, td alinha o tamanho das fotos e da tabela */
+    padding:15px;
+    text-align: center;
+    width:300px
+  }
+  tr:nth-child(even){
+    /* tr:nth-child(even) aplica as cores das colunas */
+  background-color: gray;
+  }
+  table, th, td {
+    border: 3px solid gray;
+  }
+  /* table, th, td ajusta as bordas e a sua cor */
