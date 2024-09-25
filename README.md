@@ -10,3 +10,5 @@
 
 ---
 
+## Sobre 
+ Tabela que apresenta marcas populares mundialmente e suas respectivas funcionalidades, com um link para o site.
